@@ -1,0 +1,1 @@
+This repo is for contents from the LetPhil mentorship Lv0 whop courses
