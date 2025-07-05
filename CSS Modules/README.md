@@ -1,0 +1,1 @@
+This folder contains the completed projects and course work for all of the CSS modules in the LetPhil mentorship program.
