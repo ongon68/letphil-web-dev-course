@@ -1,0 +1,1 @@
+This folder contains all the completed lesson content from the LetPhil CSS Selectors Whop module

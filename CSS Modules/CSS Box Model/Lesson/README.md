@@ -1,0 +1,1 @@
+This folder contains all the completed lesson content from the LetPhil CSS Box Model Whop module

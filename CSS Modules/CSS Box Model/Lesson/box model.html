@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTC-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Box Model</title>
+        <style>
+            /* .box {
+                width: 200px;
+                height: 100px;
+                padding: 20px;
+                border: 5px solid black;
+                margin: 30px;
+                background-color: lightblue;
+            } */
+
+            /* .box {
+                width: 250px;
+                height: 150px;
+                background-color: lightblue;
+            } */
+
+            /* custom padding goes in clockwise order. top, right, bottom, left. */
+            /* No commas are needed to seperate padding px amounts */
+            /* .box {
+                padding: 10px 20px 15px 5px;
+                background-color: cornflowerblue;
+            } */
+
+            /* border goes by width, style, color */
+            /* border-radius rounds the borders of a box */
+            /* To make a circle, put border radius at half of the border width and height (must be a square) */
+            /* .box {
+                border: 5px solid black;
+                border-radius: 15px;
+            } */
+
+            /* Margin pushes the box from the outside */
+            /* Padding pushed the box from the inside (area between the border and body) */
+            /* Custom margin uses the same format as custom padding. top, right, bottom, left */
+            /* .box {
+                background-color: lightblue;
+                width: 200px;
+                margin: auto;
+                padding: 30px;
+            } */
+
+            /* box-sizing: border-box make width and heith include padding and border, this keeps the box size fixed */
+            /* .box {
+                width: 200px;
+                height: 100px;
+                padding: 20px;
+                border: 5px solid black;
+                box-sizing: border-box;
+            } */
+
+            /* box-shadow: create a 3d effect around the element */
+            /* goes by x-offset, y-offset, blur-radius, color */
+            /* .box {
+                box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+            } */
+
+            .box {
+                height: 100px;
+                width: 200px;
+                padding: 20px;
+                border: 5px solid gray;
+                box-sizing: border-box;
+                background-color: lightblue;
+                box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+                border-radius: 15px;
+                margin: auto;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box">Hello, I am a box.</div>
+    </body>
+</html>

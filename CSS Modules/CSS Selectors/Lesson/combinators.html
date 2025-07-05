@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTC-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Combinators</title>
+        <style>
+            div p {
+                color: green;
+            }
+
+            div > p {
+                color: blue;
+            }
+
+            h2 + p {
+                color: purple;
+            }
+            /* The above and below combinators can not be used at the same time */
+            h2 ~ p {
+                color: orange;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <p>This paragraph is inside of a div</p>
+            <p>This paragraph is inside of a div</p>
+        </div>
+        <p>This paragraph is ourside of a div</p>
+
+        <br />
+        <br />
+
+        <div>
+            <p>Direct Child</p>
+            <section>
+                <p>Not a direct Child</p>
+            </section>
+        </div>
+
+        <br />
+        <br />
+
+        <h2>heading</h2>
+        <p>this text is colored</p>
+        <p>this texst is not</p>
+
+        <br />
+        <br />
+        
+        <h2>heading</h2>
+        <p>first paragraph</p>
+        <p>second paragraph</p>
+    </body>
+</html>
