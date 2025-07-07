@@ -1,0 +1,1 @@
+I stopped following along with every single part of the CSS lessons and only implementing the projects from here on out.

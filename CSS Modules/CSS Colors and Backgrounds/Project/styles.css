@@ -1,0 +1,35 @@
+/* 
+https://images.pexels.com/photos/32751828/pexels-photo-32751828.jpeg
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    height: 100vh;
+    display: flex;
+    color: white;
+    background-image: url(https://images.pexels.com/photos/32751828/pexels-photo-32751828.jpeg);
+    background-size: cover;
+    background-position: bottom;
+    background-attachment: fixed;
+}
+
+.hero-text {
+    position: absolute;
+    top: 100px;
+    left: 25px;
+}
+
+.hero h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.hero p {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
