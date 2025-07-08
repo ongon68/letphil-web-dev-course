@@ -1,0 +1,1 @@
+This folder contains all the lesson work for the CSS Flexbox videos from the LetPhil Whop mentorhip videos
