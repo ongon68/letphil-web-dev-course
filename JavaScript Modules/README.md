@@ -1,0 +1,1 @@
+This folder contains all the modules work completed for the JavaScript Whop modules from the LetPhil mentorship program

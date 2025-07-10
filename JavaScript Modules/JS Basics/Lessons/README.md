@@ -1,0 +1,1 @@
+This folder contains all the course work from the JavaScript Basics course

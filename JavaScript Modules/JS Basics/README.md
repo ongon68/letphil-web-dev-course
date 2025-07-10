@@ -1,0 +1,1 @@
+This folder contains all the Whop module content for the JavaScript basics lessons in the LetPhil mentorship.
