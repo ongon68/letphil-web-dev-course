@@ -1,0 +1,1 @@
+## This folder contains the project for the Math Object JS module from the LetPhil mentorship.

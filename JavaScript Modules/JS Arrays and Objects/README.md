@@ -1,0 +1,1 @@
+## This folder contains the project for the Arrays and Objects JS module from the LetPhil mentorship.
