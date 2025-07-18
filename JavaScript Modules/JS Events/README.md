@@ -1,0 +1,1 @@
+## This folder contains the project for the Events JS module from the LetPhil mentorship.

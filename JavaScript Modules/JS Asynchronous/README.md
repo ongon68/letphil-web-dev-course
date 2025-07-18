@@ -1,0 +1,1 @@
+## This folder contains the project for the Asynchronous vs Synchronous JS module from the LetPhil mentorship.
